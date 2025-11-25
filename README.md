@@ -1,10 +1,10 @@
-# **LegalRAG**  
+# **RAGuardian**  
 
 A Retrieval-Augmented Generation (RAG) system for legal document analysis, built with **FastAPI**, **Pinecone**, and **Llama 3.3 via Groq Inference**.  
 
 ## **Overview**  
 
-LegalRAG is an AI-powered system that retrieves and analyzes legal documents based on user queries. It utilizes **vector-based search** to provide relevant case law, legal statutes, and precedents in response to legal queries.  
+RAGuardian is an AI-powered system that retrieves and analyzes legal documents based on user queries. It utilizes **vector-based search** to provide relevant case law, legal statutes, and precedents in response to legal queries.  
 
 ## **Features**  
 
@@ -21,8 +21,8 @@ LegalRAG is an AI-powered system that retrieves and analyzes legal documents bas
 
 ### **1. Clone the repository**  
 ```bash
-git clone https://github.com/arulkumarann/legalRAG.git
-cd legalRAG
+git clone https://github.com/sachinkaushik0/RAGuardian.git
+cd RAGuardian
 ```
 
 ### **2. Create a virtual environment**  
